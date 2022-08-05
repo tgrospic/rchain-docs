@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrchain_docs=self.webpackChunkrchain_docs||[]).push([[195],{2841:(e,c,n)=>{n.r(c),n.d(c,{default:()=>a});var r=n(7294),t=n(6775);function a(){return r.createElement(t.l_,{to:"/docs/development/dev_on_rchain"})}}}]);
